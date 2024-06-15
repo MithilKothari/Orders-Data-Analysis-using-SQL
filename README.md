@@ -91,3 +91,31 @@ The following Python libraries were used in this project:
 The following diagram illustrates the data flow for this project:
 
 ![image](https://github.com/MithilKothari/Orders-Data-Analysis-using-SQL-/assets/156261969/5b8924d1-9239-4192-9ae9-c4a8ee5ac46c)
+
+** **Key Findings**
+
+### **Key Findings**
+
+1. Finding the top 10 highest revenue-generating products.
+2. Finding the top 5 selling products in each region.
+3. Query for finding each category that had the highest month of sales.
+4. Finding month-over-month growth comparison for 2022 and 2023 sales.
+
+
+## SQL Queries 
+
+1. Finding the top 10 highest revenue-generating products.
+
+![image](https://github.com/MithilKothari/Orders-Data-Analysis-using-SQL-/assets/156261969/ef5ed962-63b9-4dc5-9a2c-1d9bcacacfb8)
+
+2. Finding the top 5 selling products in each region.
+
+![image](https://github.com/MithilKothari/Orders-Data-Analysis-using-SQL-/assets/156261969/ceba476b-fb07-44b5-b34b-aa248a5ab364)
+
+3. Query for finding each category that had the highest month of sales.
+
+![image](https://github.com/MithilKothari/Orders-Data-Analysis-using-SQL-/assets/156261969/8e40d9f4-0006-4346-811d-35a22602f354)
+
+4. Finding month-over-month growth comparison for 2022 and 2023 sales.
+
+![image](https://github.com/MithilKothari/Orders-Data-Analysis-using-SQL-/assets/156261969/84607407-25a7-49c4-b598-0fc48cd2cc87)
