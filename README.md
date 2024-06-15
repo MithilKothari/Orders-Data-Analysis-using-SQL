@@ -100,7 +100,7 @@ The following diagram illustrates the data flow for this project:
 2. Finding the top 5 selling products in each region.
 3. Query for finding each category that had the highest month of sales.
 4. Finding month-over-month growth comparison for 2022 and 2023 sales.
-
+5. Which sub categories had highest growth by profit in 2023 compare to 2022.
 
 ## SQL Queries 
 
@@ -119,3 +119,8 @@ The following diagram illustrates the data flow for this project:
 4. Finding month-over-month growth comparison for 2022 and 2023 sales.
 
 ![image](https://github.com/MithilKothari/Orders-Data-Analysis-using-SQL-/assets/156261969/84607407-25a7-49c4-b598-0fc48cd2cc87)
+
+5. Which sub categories had highest growth by profit in 2023 compare to 2022.
+
+![image](https://github.com/MithilKothari/Orders-Data-Analysis-using-SQL-/assets/156261969/96886db9-74fd-466a-b707-3b98afe32dc3)
+
