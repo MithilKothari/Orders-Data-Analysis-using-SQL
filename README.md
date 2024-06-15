@@ -43,6 +43,8 @@ The dataset used in this project includes the following features:
 - Sale Price
 - Profit
 
+![image](https://github.com/MithilKothari/Orders-Data-Analysis-using-SQL-/assets/156261969/f3033b7a-8a8d-48bf-9f89-638e9f3933cc)
+
 ### **Data Extraction**
 Data extraction steps performed include:
 
@@ -83,3 +85,9 @@ The following Python libraries were used in this project:
 - Jupyter Notebook
 - Zip file
 - Kaggle
+
+## **Project Architecture**
+
+The following diagram illustrates the data flow for this project:
+
+![image](https://github.com/MithilKothari/Orders-Data-Analysis-using-SQL-/assets/156261969/5b8924d1-9239-4192-9ae9-c4a8ee5ac46c)
